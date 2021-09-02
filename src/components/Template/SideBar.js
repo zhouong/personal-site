@@ -20,12 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Cheng Zhou. I like building things.
-        I am a <a href="https://icme.stanford.edu/">UIUC</a> Junior. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+        I am a <a href="http://www.cs.uiuc.edu">UIUC</a> Junior. Before ChemistLee I was
+        at <a href="https://www.linkedin.com/company/icmsconsultinggroup">ICMS Consulting Group</a>.
       </p>
       <ul className="actions">
         <li>
@@ -36,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Ong Cheng Zhou <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Ong Cheng Zhou <Link to="/">mylink.com</Link>.</p>
     </section>
   </section>
 );
