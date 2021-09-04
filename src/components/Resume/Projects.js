@@ -5,7 +5,7 @@ import Job from './Projects/Project';
 
 const Project = ({ data }) => (
   <div className="project">
-    <div className="link-to" id="project" />
+    <div className="link-to" id="projects" />
     <div className="title">
       <h3>Projects</h3>
     </div>
